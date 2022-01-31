@@ -1,2 +1,2 @@
-# Udacity_DE_NanpoDegree
+# Udacity_DE_NanoDegree
 Repo covering all code, examples, and projects from the Udacity Data Engineering NanoDegree
